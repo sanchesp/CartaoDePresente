@@ -1,6 +1,6 @@
 package CartaoDePresente;
 
-public class FelizNatal extends Cartao{
+public class FelizNatal extends CartaoDePresente{
 
     public FelizNatal(String nomeRemetente, String nomeDestinatario) {
         super(nomeRemetente, nomeDestinatario);

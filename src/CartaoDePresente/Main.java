@@ -12,7 +12,7 @@ public class Main {
         imprimirCartao(cartaoDeNatal);
     }
 
-    public static void imprimirCartao (Cartao cartao) {
+    public static void imprimirCartao (CartaoDePresente cartao) {
         System.out.println(cartao.toString()+"\n" +cartao.mostrarMensagem()+ "\n");
 
     }
